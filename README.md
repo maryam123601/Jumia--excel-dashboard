@@ -1,0 +1,36 @@
+# Jumia Excel Dashboard 
+
+This is a Sales and Product Performance Dashboard built using Microsoft Excel.
+
+## Project Overview
+The dashboard analyzes Jumia's sales data and provides insights such as:
+- Total Sales
+- Customer Type Distribution
+- Country-wise Sales
+- Order Priority Breakdown
+- Product Category Analysis
+
+## Tools Used
+- Microsoft Excel
+- Power Query (for data cleaning)
+- Pivot Tables & Charts
+- Excel Formulas
+- Excel Slicers
+
+## Sample Dashboard View
+![Jumia Dashboard](jumia.png)
+
+##  About the Dataset
+The dataset includes columns such as:
+- Customer Name, Country, Customer Type
+- Order Date, Product Category, Sales Price, Total Sales, etc.
+
+## Skills Demonstrated
+- Data Cleaning in Power Query
+- Dashboard Layout Design
+- Slicer and Interactive Filtering
+- Data Visualization
+
+## 👤 Author
+*Isiaq Mariam Anuoluwapo*  
+[Email](mailto:maryamharnuholuwapoisiaq@gmail.com)
